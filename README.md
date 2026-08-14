@@ -18,7 +18,7 @@
 - 🏗️ Building Ethiopia's **National Health Data Warehouse** at Habtech
 - 🤖 Passionate about **Machine Learning, NLP, and African AI**
 - 🌍 Working on **low-resource NLP for Amharic** — one of Africa's most spoken languages
-- ⚡ Fun fact: I organized the **Half Life 2026** event for 200+ students
+
 
 ---
 
