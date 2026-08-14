@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd-year CS student at **Addis Ababa University**
+- 🎓 4th-year CS student at **Addis Ababa University**
 - 🏗️ Building Ethiopia's **National Health Data Warehouse** at Habtech
 - 🤖 Passionate about **Machine Learning, NLP, and African AI**
 - 🌍 Working on **low-resource NLP for Amharic** — one of Africa's most spoken languages
@@ -73,7 +73,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeezyyoba&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeezyyoba&theme=tokyonight&hide_border=true)
+
 
 </div>
 
