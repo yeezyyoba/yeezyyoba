@@ -91,6 +91,6 @@
 
 *"Building AI for Africa, one commit at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yeezyyoba&color=534AB7&style=flat-square)
+
 
 </div>
