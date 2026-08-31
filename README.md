@@ -58,7 +58,7 @@
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [🏦 Ethiopian Fintech Analytics](https://github.com/yeezyyoba/ethiopian-fintech-analytics) | Credit risk prediction + fraud detection. XGBoost (AUC-ROC 0.8842), SHAP explainability | Python, XGBoost, SHAP, SQL | 🟡 In Progress |
+| [🏦 Ethiopian Fintech Analytics](https://github.com/yeezyyoba/ethiopian-fintech-analytics) | Credit risk prediction + fraud detection. XGBoost (AUC-ROC 0.8842), SHAP explainability | Python, XGBoost, SHAP, SQL | ✅ Done |
 | [🇪🇹 Amharic Sentiment Analysis](https://github.com/yeezyyoba/amharic-sentiment-analysis) | Fine-tuning Afro-XLM-R on Amharic social media text — low-resource NLP | PyTorch, HuggingFace, Streamlit | 🟡 In Progress |
 | [🎬 Hybrid Movie Recommender](https://github.com/yeezyyoba/hybrid-movie-recommender) | ALS + content-based + MMR re-ranking on MovieLens 100K | Python, Streamlit | ✅ Done |
 | [💱 USD-ETB Forecasting](https://github.com/yeezyyoba/usd-etb-forecasting) | Time-series analysis of July 2024 Ethiopian Birr float | Python, ARIMA | ✅ Done |
