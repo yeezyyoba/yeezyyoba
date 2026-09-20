@@ -84,6 +84,7 @@
 - 🏥 **National Health Data Warehouse** — integrating OpenMRS, DHIS2, eCHIS using ClickHouse + Apache NiFi at Habtech
 - 🤖 **Amharic NLP** — fine-tuning multilingual transformers for low-resource sentiment analysis
 - 📊 **Ethiopian Fintech Analytics** — end-to-end credit risk and fraud detection platform
+- 📝 **Amharic Handwritten OCR** — CRNN+CTC recognition model with NLP-based error correction, mobile app in React Native
 
 ---
 
